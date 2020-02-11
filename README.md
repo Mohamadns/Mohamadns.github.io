@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/Mohamadns/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is my [page](Mohamadns.github.io) If you have any enquiries contact me at my email address mkialnasser50@sm.imamu.edu.sa Thank you very much! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Biogrophy
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My name is _Mohamad Khaled Alnasser_. I'm a **Computer Science** student at **_Imam University_**. When I was a little kid I was fascinated by technology and growing up with technology I've tried coding and got hooked instantly.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### My noteble merits
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mohamadns/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- I'm a fast learner.
+- I like learning new things at every chance I can get.
+- I'm a perfectionist.
+```
