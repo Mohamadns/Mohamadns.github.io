@@ -1,6 +1,6 @@
 ## Welcome
 
-This is my [page](Mohamadns.github.io) If you have any enquiries contact me at my email address <a href="mailto:mkialnasser50@sm.imamu.edu.sa">mkialnasser50@sm.imamu.edu.sa</a> Thank you very much! 
+This is my [page](Mohamadns.github.io) If you have any enquiries contact me at my <a href="mailto:mkialnasser50@sm.imamu.edu.sa">email address</a> Thank you very much! 
 
 
 ### Biogrophy
